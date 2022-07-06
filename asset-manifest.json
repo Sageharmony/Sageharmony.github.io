@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kelp-front/static/css/main.ebf24be3.css",
+    "main.js": "/kelp-front/static/js/main.17e88383.js",
+    "static/js/787.f947ca9e.chunk.js": "/kelp-front/static/js/787.f947ca9e.chunk.js",
+    "static/media/logo.svg": "/kelp-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kelp-front/index.html",
+    "main.ebf24be3.css.map": "/kelp-front/static/css/main.ebf24be3.css.map",
+    "main.17e88383.js.map": "/kelp-front/static/js/main.17e88383.js.map",
+    "787.f947ca9e.chunk.js.map": "/kelp-front/static/js/787.f947ca9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebf24be3.css",
+    "static/js/main.17e88383.js"
+  ]
+}
